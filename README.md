@@ -2,6 +2,7 @@
 Assignment for Data Analytics Fundamentals
 
 Goals:
+
 (1) Learning to use Jupyter Notebooks
 
 (2) Utilizing Pandas, mapping and DataFrames to sort data within the code.
